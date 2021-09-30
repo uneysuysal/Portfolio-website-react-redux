@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about":"Hakkımda",
+        "project":"Projelerim",
+        "blog":"Blog",
+        "contact":"İletişim"
+    },
+    "home": {
+        "hi": "Merhaba",
+        "iam":"Ben",
+        "button1":"Benimle Çalış",
+        "button2":"Geçmiş Çalışmalarım"
+    },
+    "about": {
+        "cv": "CV İndir"
+        
+    },
+    "contact": {
+        "name": "İsim",
+        "surname": "Soyisim",
+        "message": "Mesaj",
+        "send":"Gönder"
+    },
+    "skills": {
+        "skill": "Yetenekler"
+        
+    },
+    "border":{
+        "text" :"Yaratıcılık, sadece nesneleri birbirine bağlamaktır. Yaratıcı yeteneklere sahip insanlara bir şeyi nasıl yaptıklarını sorduğunuzda, bu konuda biraz suçlu hissediyorlar, çünkü aslında onlar bir şey yapmadılar, sadece bir şeyler gördüler."
+    }
+}

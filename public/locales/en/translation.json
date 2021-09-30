@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "home": "Home",
+        "about":"About",
+        "project":"Project",
+        "blog":"Blog",
+        "contact":"Contact"
+    },
+    "home": {
+        "hi": "Hi",
+        "iam":"I am",
+        "button1":"Work With Me",
+        "button2":"See My Past Work"
+    },
+    "about": {
+        "cv": "Download CV"
+        
+    },
+    "contact": {
+        "name": "First Name",
+        "surname": "Last Name",
+        "message": "Message",
+        "send":"Send"
+    },
+    "skills": {
+        "skill": "Skills"
+        
+    },
+    "border":{
+        "text" :"Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things."
+    }
+}
